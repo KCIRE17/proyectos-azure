@@ -1,0 +1,6 @@
+{
+    "pipeline_name": "Ingesta_Ventas_Lima",
+    "source_type": "API",
+    "retry_attempts": 5,
+    "active": true
+}
