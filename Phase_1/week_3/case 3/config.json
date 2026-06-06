@@ -1,0 +1,4 @@
+{
+    "nombre_tabla": "dim_clientes",
+    "tipo_carga": "Incremental"
+}
