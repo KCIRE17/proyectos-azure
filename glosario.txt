@@ -1,3 +1,3 @@
 1. Main: rama principal en produccion
 2. checkout Comando para cambiar de rama
-3. pull request Solicitud en github para revisar codigo
+3. pull request Solicitud en github para revisar codigou
